@@ -1,5 +1,8 @@
 # TheAnonyMOST's README
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## I am currently learning ...
 ### - Flutter/Dart
 [Introduction to Flutter Development Using Dart](https://www.appbrewery.co/courses/enrolled/851555)
