@@ -1,6 +1,6 @@
 # TheAnonyMOST's README
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=theanonymost&show_icons=true&?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=theanonymost&show_icons=true&?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## I am currently learning ...
